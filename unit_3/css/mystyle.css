@@ -1,0 +1,19 @@
+body {
+	background: url(http://alkylphenol.org/Images/library.jpg);
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	font-famly: Courier;
+}
+hr {
+	width:20000px;
+}
+#slogan {
+	font-style: italic;
+	color: #FF455A;
+	font-size: 16px;
+}
+ul {
+	text-align: center;
+}
