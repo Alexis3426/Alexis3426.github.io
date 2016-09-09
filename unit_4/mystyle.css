@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Chonburi);
+@import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
+@import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
+
+H1 {
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 80%;
+  line-height: 2em;
+  font-family:  'Chonburi', cursive;
+  background-color: 7F6855
+}
+body {
+	background: url(http://alkylphenol.org/Images/library.jpg);
+	background-size: cover;
+	color: #fff;
+	font-size: 16px;
+	font-famly: Courier;
+}
+p {
+  display: block;
+  margin: auto;
+  text-align: center;
+  width: 40%;
+  font-family: 'Raleway Dots', cursive;
+}
+hr {
+	display: block;
+  width: 100%;
+}
+h3 {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  margin: auto;
+  width: 80%;
+	color: #FF455A;
+	font-size: 20px;
+  font-family: 'Stardos Stencil', cursive;
+}
+ul {
+  display: block;  
+  margin: auto;
+  width: 18%;
+  font-family: 'Raleway Dots', cursive;
+	}
+#contact {
+  display:block;
+  margin: auto;
+  text-align: center;
+  width: 20%;
+}
