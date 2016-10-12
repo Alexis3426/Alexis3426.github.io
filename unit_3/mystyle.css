@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(https://fonts.googleapis.com/css?family=Chonburi);
 @import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
 @import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
@@ -50,4 +51,24 @@ ul {
   margin: auto;
   text-align: center;
   width: 20%;
+=======
+body {
+	background: url(http://alkylphenol.org/Images/library.jpg);
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	font-famly: Courier;
+}
+hr {
+	width:20000px;
+}
+#slogan {
+	font-style: italic;
+	color: #FF455A;
+	font-size: 16px;
+}
+ul {
+	text-align: center;
+>>>>>>> f198838bf5b86846c4f00a562890f10f296d5c5b
 }
