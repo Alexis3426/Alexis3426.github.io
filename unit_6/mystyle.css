@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Chonburi);
+@import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
+@import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
+
+nav { 
+  display: block;
+  width: 21%;
+  margin: auto;  
+ padding: 0px;  
+ }
+nav a {
+  text-decoration: none; 
+  color: #ffffff;
+  margin: .6em;
+  font-size: 16px;
+  align-content:center;
+  padding: 4px;
+  display: inline-block;
+  background: #aaaaaa;
+  font-family: arial; 
+}
+
+footer
+{ 
+clear: both;
+display: block;
+text-align: center;
+color: black;
+font-weight: bold;
+}
+
+#email {
+  text-decoration: underline;
+  color: black;
+ 
+}
+
+h1 {
+  display: block;
+  margin: auto;
+  text-align: left;
+  width: 80%;
+  font-family:  'Chonburi', cursive;
+  font-size: 25px;
+  text-transform: lowercase;
+}
+h2 {
+  color: black;
+  background-color: rgba(172,172,204,.5);
+}
+body {
+  background: url(http://www.designlovefest.com/wp-content/uploads/downloads/2015/02/Pink-Florals.jpg);
+  background-size: cover;
+  color: #fff;
+  font-size: 14px;
+  font-family: Courier;
+}
+div{
+  display:inline-block;
+  width: 44%;
+  outline: 2px grey solid;
+  padding: 2%;
+  margin: 10px;
+  text-align: center;
+  line-height: 6em;
+}
+
+section{
+  margin: auto;
+  max-width: 80%;
+}
+
+#spotlight{
+  float: left;
+    }
+
+#explore {
+  float:right;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 250px;
+ }
+hr {
+  display: block;
+  width: 100%;
+}
+h3 {
+  display: block;
+  text-align: center;
+  font-style: italic;
+  margin: auto;
+  width: 80%;
+  color: #17171A;
+  font-size: 20px;
+  font-family: 'Stardos Stencil', cursive;
+}
+ul {
+  display: block;  
+  margin: auto;
+  width: 18%;
+  font-family: 'Raleway Dots', cursive;
+  list-style: none;
+   }
+#contact {
+  display:block;
+  margin: auto;
+  text-align: center;
+  width: 20%;
+}

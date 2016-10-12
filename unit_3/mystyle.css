@@ -1,26 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Chonburi);
 @import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
 @import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
-header 
-{ background-color: #FFED74;
-  border: 1px black solid;
-  padding: 20px;
-}
-nav 
-{ background-color: #E8C66A;
-  border: 1px black solid;
-  padding: 20px;
-}
-article 
-{ background-color: #E89C6C;
-  border: 1px black solid;
-  padding: 20px;
-  color: #17171A;
-}
-footer
-{ background-color: #FF957E;
-border: 1px black solid;
-}
 
 H1 {
   display: block;
@@ -32,11 +12,11 @@ H1 {
   background-color: 7F6855
 }
 body {
-  background: url(http://www.designlovefest.com/wp-content/uploads/downloads/2015/02/Pink-Florals.jpg);
-  background-size: cover;
-  color: #fff;
-  font-size: 16px;
-  font-famly: Courier;
+	background: url(http://alkylphenol.org/Images/library.jpg);
+	background-size: cover;
+	color: #fff;
+	font-size: 16px;
+	font-famly: Courier;
 }
 p {
   display: block;
@@ -46,7 +26,7 @@ p {
   font-family: 'Raleway Dots', cursive;
 }
 hr {
-  display: block;
+	display: block;
   width: 100%;
 }
 h3 {
@@ -55,8 +35,8 @@ h3 {
   font-style: italic;
   margin: auto;
   width: 80%;
-  color: #17171A;
-  font-size: 20px;
+	color: #FF455A;
+	font-size: 20px;
   font-family: 'Stardos Stencil', cursive;
 }
 ul {
@@ -64,7 +44,7 @@ ul {
   margin: auto;
   width: 18%;
   font-family: 'Raleway Dots', cursive;
-  }
+	}
 #contact {
   display:block;
   margin: auto;
