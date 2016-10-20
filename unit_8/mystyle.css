@@ -1,25 +1,24 @@
 @import url(https://fonts.googleapis.com/css?family=Chonburi);
 @import url(https://fonts.googleapis.com/css?family=Stardos+Stencil);
 @import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
-
+* { margin:0; padding:0; box-sizing:border-box; }
 nav { 
   display: block;
   width: 80%;
   margin: auto;  
- padding: 0%; 
-background: #000000;
+  background: #000000;
  }
 nav a {
-  text-decoration: none; 
+  text-decoration: none;
   color: #ffffff;
-  width:30%;
-  margin: .6em;
+  width: 23.33%;
+  padding: 1em;
+  margin: 1em 5%;
   font-size: 16px;
   text-align: center;
-  padding: .1em;
-  display: inline-block;
   background: #aaaaaa;
-  font-family: arial; 
+  font-family: arial;
+  float: left;
 }
 
 footer
@@ -113,6 +112,13 @@ div{
   text-align: center;
   line-height: 6em;
 }
+.clearfix:after {
+  clear:both;
+  display:block;
+  height:0;
+  content:"";
+  visibility:hidden;
+}
 
 @media screen and (max-width: 1100px) {
   nav{
@@ -172,7 +178,6 @@ img {
     }
 h2 {
   font-size: 12px;
-}
 }
 }
 
